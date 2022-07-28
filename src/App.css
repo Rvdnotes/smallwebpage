@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.nav1{
+  background-color: rgb(38, 5, 5);
+  margin-top: 0.1rem;
+  font-size: 2rem;;
+}
+.d-flex {
+font-size: 2rem;
+gap:5rem;
+position: fixed;
+
+}
+
